@@ -25,3 +25,20 @@ header img{
     position: relative;
     margin-left: 10%;
 }
+
+/*Hasta aca esta el cuadro del encabezado*/
+
+nav{
+    position: absolute;
+    display: flex;
+    gap: 100px;
+    margin-top: 20%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+    font-size: 35px;
+    margin-left: 20px;
+}
